@@ -33,7 +33,7 @@ The primary components of this project are:
 
 ├── assembly_analysis_results
 
-│ └── ... contains data generated and processed by the scripts
+│ └── ... contains data generated and processed by the scripts, this folder will be created upon running the scripts
 
 
 ## Script Descriptions
