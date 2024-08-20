@@ -18,13 +18,21 @@ The primary components of this project are:
 ## Repository Structure
 
 ├── README.md
+
 ├── 01_Generate_Random_Autocatalytic_Set.py
+
 ├── 02_Assembly_Analysis_Autocatalytic_Set.py
+
 ├── 03_Autocatalysis_Statistics.py
+
 ├── 04_manipulate_results_array.py
+
 ├── 05a_line_plots.py
+
 ├── 05b_surface_plots.py
+
 ├── assembly_analysis_results
+
 │ └── ... contains data generated and processed by the scripts
 
 
