@@ -1,8 +1,8 @@
 # Autocatalytic Sets and Assembly Theory: A Toy Model Perspective
 Repository for the computational exploration of autocatalytic reaction networks as discussed in the corresponding paper.
 
-The perprint can be found at:
-https://www.preprints.org/manuscript/202408.1213/v1
+The full paper can be found at:
+[https://www.preprints.org/manuscript/202408.1213/v1](https://www.mdpi.com/1099-4300/26/9/808)
 
 ## Authors: Dr. techn. Sebastian Raubitzek MSc. BSc.
 
